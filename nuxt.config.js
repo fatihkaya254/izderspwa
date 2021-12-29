@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'izderspwa',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'tr'
     },
     meta: [
       { charset: 'utf-8' },
